@@ -1,3 +1,5 @@
+package ru.netology
+
 fun main() {
 
     agoToText(1260)
